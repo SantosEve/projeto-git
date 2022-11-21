@@ -1,0 +1,1 @@
+console.log("Olá! O Galo é doido, e as meninas são tri! (Tricampeãs Mineiras.")
